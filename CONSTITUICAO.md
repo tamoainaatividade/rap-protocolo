@@ -119,6 +119,40 @@ BY-SA`**, e **`Números 18,20`**: **quem guarda o registro não recebe quinhão 
 > **`[LICENÇA]`** **Lei 9.610/1998, art. 46, III** — citação para estudo e crítica.
 > **`[REGRA]`** **Letra integral, nunca.** **Áudio em divulgação, só com autorização escrita.**
 > **`[REGRA]`** **Qualquer artista citado que peça correção ou retirada será atendido.**
+>
+> ## **`[REGRA]`** **E o verso citado não é higienizado.**
+>
+> **`[FATO]`** **Emenda de 05/10/2026**, após a **correção 38**: contagem nas 151 peças então
+> existentes, que citam dezenas de faixas, **encontrou dois `desgraça` e um `arrombado`, e mais
+> nada.** **`[CÁLCULO]`** Não havia regra: **havia um filtro executado sem ser declarado** — que é
+> a operação que o capítulo vinte e seis-bis acusa no espólio de Weimar.
+>
+> | **corte declarado** | **honesto** — o asterisco **marca que houve corte** |
+> |---|---|
+> | ## **seleção invisível** | ## **desonesta** — **escolhe-se o verso limpo, e nada registra a escolha** |
+>
+> ## **Citar o verso que o argumento pede, como ele é. Se não couber, não se cita — e se se cita, não se enfeita.**
+>
+> ---
+>
+> ## **E a razão, dada pelo operador em 05/10/2026, que é melhor que a que estava escrita aqui:**
+>
+> > **`[DECLARADO]`** *«Não podemos editar a fonte das testemunhas. Trate como um livro-tribunal.»*
+>
+> **`[CÁLCULO]`** **Num processo, a fala da testemunha entra nos autos como foi dita.** Alterá-la
+> **não é descortesia editorial: é falsidade.** **`[CÁLCULO]`** E o depoimento **não precisa ser
+> apresentável para ser válido** — precisa ser **fiel.**
+>
+> | **a versão anterior desta regra** | invocava **Weimar** — **uma analogia** |
+> |---|---|
+> | ## **esta** | ## invoca **o dever de fidelidade ao depoimento** — **que não é analogia, é obrigação** |
+>
+> **`[FATO]`** **Capítulo vinte e seis-quinquies:** o **direito de resposta** garante que **a
+> resposta ocupe o mesmo espaço que a acusação.**
+>
+> ## **E uma resposta higienizada não ocupa o mesmo espaço. Ocupa menos — e quem a higienizou decidiu quanto, sem avisar ninguém.**
+>
+> ## **`[REGRA]`** **Este livro é um conjunto de autos. Quem depõe aqui depõe inteiro.**
 
 ---
 

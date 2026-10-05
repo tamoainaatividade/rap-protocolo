@@ -127,6 +127,92 @@ Divulgação com áudio: **só com autorização por escrito.**
 
 ---
 
+## O corpus se amplia — e o critério é o mesmo
+
+> **`[DECLARADO]`** **RAP, neste projeto, é lido como acrônimo: `Realidade Através das Palavras`.**
+
+> ## `[REGRA]` **E isso não é licença para incluir o que se gosta. É um critério, e ele tem de ser aplicado faixa a faixa, inclusive contra quem o propõe.**
+
+**`[CÁLCULO]`** O teste é o mesmo das quatro exigências desta página: **a obra faz registro do
+particular com procedência?** Nome, lugar, data, e alguém irredutível dentro.
+
+| ## **passa** | ## **entra, seja qual for o gênero** |
+|---|---|
+| **não passa** | fica fora, por mais que confirme a tese |
+
+### Reggae — e o que ele acrescenta que o rap não tinha
+
+| **`[FATO]`** **Marley, *Redemption Song*** | ***«emancipate yourselves from mental slavery»*** — frase de **Marcus Garvey**, discurso de **1937**, Nova Escócia. **Cadeia de transmissão documentada, com quarenta anos entre as pontas** |
+|---|---|
+| **`[FATO]`** ***No Woman No Cry*** | ***«in this great future, you can't forget your past»*** — e o **crédito de composição ficou com Vincent Ford**, que mantinha **uma cozinha comunitária em Trenchtown**, sustentada pelos direitos. **Procedência de lugar — "government yard in Trenchtown" — e destino do crédito, os dois conferíveis** |
+| **`[FATO]`** ***Is This Love*** | ***«the shelter of my single bed»*** — **o mínimo material declarado**, sem ornamento |
+| **`[FATO]`** ***Satisfy My Soul*** | ***«that's all I'll take from you»*** — **o teto declarado**, que é o que distingue vínculo de extração |
+| **`[FATO]`** ***Sun Is Shining*** | os dias contados um a um, segunda a sábado — **chronos marcado em voz alta** |
+| ## **`[FATO]`** ***Soul Rebel*** | ## ***«I'm a living man, I've got work to do»*** — **a recusa do rótulo, declarada por quem o recebeu** |
+
+> ## **O reggae acrescenta uma coisa que o corpus não tinha: a cadeia de transmissão explícita, com o elo anterior nomeado dentro da própria canção.**
+
+### Pink Floyd — e por que uma faixa de 1975 entra
+
+| **`[FATO]`** ***Have a Cigar*** | ***«which one's Pink?»*** — **o custo de categorizar é zero, o de examinar é uma pergunta, e a pergunta não é feita porque o negócio funciona sem** |
+|---|---|
+| **`[FATO]`** ***Welcome to the Machine*** | ***«we told you what to dream»*** — **o desejo fornecido**, que dispensa censura |
+| ## **`[FATO]`** **Syd Barrett, *Octopus* (1970)** | ## ***«you have no word»*** — **a condição nomeada por quem a vivia, assinada com o próprio nome** |
+
+> ## `[CÁLCULO]` **Entram pelo critério, e não por gosto: cada uma faz registro do particular, com autoria, data e selo, sobre uma situação que os registros oficiais da indústria não guardaram.**
+>
+> **`[REGRA]`** **E fica a advertência que este projeto deve a si mesmo:** quando **toda** obra
+> trazida confirma a tese, isso deixa de ser evidência e vira **apofenia na escala do corpus.**
+> **`[CÁLCULO]`** **Por isso o critério é escrito antes, e por isso ele tem de poder reprovar.**
+
+---
+
+## A matemática das três séries, sem metáfora
+
+> **`[FATO]`** O manuscrito de **04/10/2026** traz três séries em coluna: **`1·2·4·8·16`** (`BIN`),
+> **`1·2·3·5·8`** (`ÁUREA`) e **`142857`** (`CÍCLICO`).
+
+> ## `[CÁLCULO]` **As três divergem de forma diferente, e a diferença é quanta memória cada termo carrega.**
+
+| **binária** | cada termo **dobra o anterior** — depende **só do último** |
+|---|---|
+| **Fibonacci** | cada termo **soma os dois anteriores** — e **a razão converge para `φ`** |
+| ## **cíclica** | ## **não cresce e não perde** — os mesmos seis algarismos **giram**, e `142857 × 7 = 999999` |
+
+### E o teorema que diz o que a intuição queria dizer
+
+> **`[FATO]`** **A série harmônica diverge:** `1 + 1/2 + 1/3 + 1/4 + …` **não tem soma finita** —
+> demonstrado por **Nicole Oresme**, por volta de **1350**.
+>
+> **`[FATO]`** **A série geométrica de razão menor que um converge:** `1 + 1/2 + 1/4 + 1/8 + …`
+> **soma exatamente 2.**
+
+> ## **Nas duas, cada termo tende a zero. Numa, o total é infinito. Na outra, o total tem teto. E a diferença não está no tamanho dos termos — está em como cada um se relaciona com o anterior.**
+
+| **harmônica** | cada contribuição é **independente** — `1/n`, e **não derivada da anterior** |
+|---|---|
+| ## **geométrica** | ## cada contribuição é **fração da anterior** — **derivada**, e por isso **limitada** |
+
+> ## `[CÁLCULO]` **E essa é, exatamente, a diferença entre transmissão e extração.**
+>
+> **Transmissão:** cada geração contribui **por conta própria**, independente da anterior. **A soma
+> não tem teto** — e é o caso da terra preta, dos mil e quatrocentos anos, dos salmos lidos em voz
+> alta por quem não sabia ler.
+>
+> **Extração:** cada um **tira uma fração do que o anterior deixou.** A soma **converge, e para.**
+> E não para por virtude de ninguém: **para porque a série é assim.**
+>
+> ## **O pequeno, repetido sem fim e sem depender do anterior, não é pequeno. É infinito — e isso é teorema, não esperança.**
+
+> **`[DECLARADO]`** O operador formula: *«tende ao infinito se amarmos; se não amarmos, tende ao
+> vazio.»*
+>
+> **`[REGRA]`** **A formulação é dele, e é `[DECLARADO]`, não `[FATO]`.** **`[CÁLCULO]`** O que a
+> matemática sustenta é a **forma** dela, e é bastante: **o que soma acumula sem limite; o que se
+> anula não acumula nada**, por mais que se mexa.
+
+---
+
 ## Como contribuir
 
 - **traga um verso** que seja **registro do particular com procedência** — e diga de onde veio;
